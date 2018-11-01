@@ -1,7 +1,7 @@
 public class GitTest {
 
     public static void main(String[] args) {
-        System.out.println("Ìì¼ÓÒ»¸öÎÄ¼ş");
+        System.out.println("ç¬¬ä¸€æ¬¡æ·»åŠ ");
     }
 
 }

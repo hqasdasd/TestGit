@@ -1,6 +1,6 @@
 public class GitTest2 {
 
     public static void main(String[] args) {
-        System.out.println("µÚ¶ş¸öcommit²âÊÔ");
+        System.out.println("ç¬¬äºŒæ¬¡æ·»åŠ ");
     }
 }
